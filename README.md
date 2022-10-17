@@ -2,7 +2,7 @@
 
 ![Contributors](https://img.shields.io/github/contributors/walidsi/identify-customer-segments?style=plastic)
 ![Forks](https://img.shields.io/github/forks/walidsi/identify-customer-segments)
-![Downloads](https://img.shields.io/github/downloads/walidsi/identify-customer-segments)
+![Downloads](https://img.shields.io/github/downloads/walidsi/identify-customer-segments/total)
 ![Stars](https://img.shields.io/github/stars/walidsi/identify-customer-segments)
 ![Licence](https://img.shields.io/github/license/walidsi/identify-customer-segments)
 ![Issues](https://img.shields.io/github/issues/walidsi/identify-customer-segments)
