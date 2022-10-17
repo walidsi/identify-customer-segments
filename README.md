@@ -28,7 +28,7 @@ Code is provided in the `Identify_Customer_Segments.ipynb` notebook file.
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `finding_identify_customer_segmentsdonors/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory (that contains this README) and run one of the following commands:
 
 ```bash
 ipython notebook Identify_Customer_Segments.ipynb
